@@ -120,6 +120,10 @@ result = detect_eyes(withglass)
 plt.imshow(result,cmap='gray')
 plt.show()
 ```
+
+## DEVELOPED BY : VIGNESH S
+## REGISTER NUMBER: 212223230240
+
 ### Output :
 
 ### INPUT IMAGES :
